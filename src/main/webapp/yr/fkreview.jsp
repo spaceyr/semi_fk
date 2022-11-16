@@ -81,7 +81,7 @@
 
 
 	<div class="review_box">
-		<div class="h4 pb-2 mb-4 text-success border-bottom border-success">리뷰</div>
+		
 		<table class="table table-sm">
 
 			<tr>

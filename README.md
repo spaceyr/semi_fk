@@ -17,6 +17,7 @@
 - **Framework & tool**: Eclipse, Bootstrap, eXERD
 - **DB**: oracle
 - **WAS**: tomcat
+- MODEL 1 방식
 ---
 
 
